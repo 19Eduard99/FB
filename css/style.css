@@ -1,9 +1,9 @@
 @import url('header.css');
-@import url('_hero.css');
-@import url('_swiper-section.css');
-@import url('_new-artifacts.css');
-@import url('_contact.css');
-@import url('_footer.css');
+@import url('hero.css');
+@import url('swiper-section.css');
+@import url('new-artifacts.css');
+@import url('contact.css');
+@import url('footer.css');
 
 *{
     margin: 0;
