@@ -5,6 +5,13 @@
 @import url('contact.css');
 @import url('footer.css');
 
+
+@import url('./media/media-header.css');
+@import url('./media/media-hero.css');
+@import url('./media/media-swiper-section.css');
+@import url('./media/media-new-artifacts.css');
+@import url('./media/media-contact.css');
+
 *{
     margin: 0;
     padding: 0;
